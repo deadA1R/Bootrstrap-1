@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Lato&family=Maven+Pro&display=swap');
+.row{
+  margin: 3px;
+}
+
+.box_1{
+ padding-top: 6%;
+}
+textarea{
+  margin-top: 10px;
+}
